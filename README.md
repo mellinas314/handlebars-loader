@@ -1,9 +1,11 @@
-[![latest version](https://img.shields.io/npm/v/handlebars-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/handlebars-loader)
-[![downloads](https://img.shields.io/npm/dm/handlebars-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/handlebars-loader)
-[![Build Status](https://travis-ci.org/pcardune/handlebars-loader.svg?branch=master)](https://travis-ci.org/pcardune/handlebars-loader)
-[![Coverage Status](https://coveralls.io/repos/github/pcardune/handlebars-loader/badge.svg?branch=master)](https://coveralls.io/github/pcardune/handlebars-loader?branch=master)
+<!-- [![latest version](https://img.shields.io/npm/v/handlebars-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/handlebars-loader) -->
+<!-- [![downloads](https://img.shields.io/npm/dm/handlebars-loader.svg?maxAge=2592000)](https://www.npmjs.com/package/handlebars-loader) -->
+<!-- [![Build Status](https://travis-ci.org/pcardune/handlebars-loader.svg?branch=master)](https://travis-ci.org/pcardune/handlebars-loader) -->
+<!-- [![Coverage Status](https://coveralls.io/repos/github/pcardune/handlebars-loader/badge.svg?branch=master)](https://coveralls.io/github/pcardune/handlebars-loader?branch=master) -->
 
-# handlebars-loader
+# handlebars-loader-ignore-helpers
+
+Forked just for include [PR 136](https://github.com/pcardune/handlebars-loader/pull/136).
 
 A [handlebars](http://handlebarsjs.com) template loader for [webpack](https://github.com/webpack/webpack).
 
@@ -11,7 +13,7 @@ A [handlebars](http://handlebarsjs.com) template loader for [webpack](https://gi
 
 ## Installation
 
-`npm i handlebars-loader --save`
+`npm i handlebars-loader-ignore-helpers --save`
 
 ## General Usage
 

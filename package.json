@@ -1,12 +1,13 @@
 {
-  "name": "handlebars-loader",
+  "name": "handlebars-loader-ignore-helpers",
   "contributors": [
     "Alan @altano",
     "Tobias Koppers @sokra",
-    "Jason Anderson @diurnalist"
+    "Jason Anderson @diurnalist",
+    "David Renoldner @dave-trudes"
   ],
   "maintainers": [
-    "Paul Carduner @pcardune"
+    "Juan Miguel Sánchez @mellinas314"
   ],
   "description": "handlebars loader module for webpack",
   "dependencies": {
@@ -26,7 +27,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/pcardune/handlebars-loader.git"
+    "url": "git://github.com/mellinas314/handlebars-loader.git"
   },
   "version": "1.5.0",
   "devDependencies": {
@@ -39,9 +40,9 @@
     "sinon": "^1.10.3"
   },
   "bugs": {
-    "url": "https://github.com/pcardune/handlebars-loader/issues"
+    "url": "https://github.com/mellinas314/handlebars-loader/issues"
   },
-  "homepage": "https://github.com/pcardune/handlebars-loader",
+  "homepage": "https://github.com/mellinas314/handlebars-loader",
   "main": "index.js",
   "files": [
     "index.js",
